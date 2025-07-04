@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wordle_learn/home_page.dart';
+import 'package:wordle_learn/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
